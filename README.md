@@ -8,6 +8,6 @@ webcatcher is a simple command line tool designed to brute force directories and
 
 Contact
 -------
-Twitter: diefunction\n
-Discord: Diefunction#1337\n
-HTB: diefunction\n
+- Twitter: diefunction
+- Discord: Diefunction#1337\n
+- HTB: diefunction\n
